@@ -1,4 +1,5 @@
 %http://stackoverflow.com/questions/24873773/web-scraping-rap-lyrics-on-rap-genius-w-python
+%http://www.pythonforbeginners.com/python-on-the-web/beautifulsoup-4-python/ ALSO GOOD EXAMPLES
 import re
 import requests
 import nltk
